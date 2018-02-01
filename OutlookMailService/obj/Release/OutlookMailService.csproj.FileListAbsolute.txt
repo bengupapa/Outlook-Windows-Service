@@ -1,0 +1,7 @@
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe.config
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.pdb
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\obj\Release\OutlookMailService.ProjectInstaller.resources
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\obj\Release\OutlookMailService.csproj.GenerateResource.Cache
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\obj\Release\OutlookMailService.exe
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\obj\Release\OutlookMailService.pdb

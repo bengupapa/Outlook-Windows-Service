@@ -1,0 +1,13 @@
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\bin\Debug\Outluk.exe.config
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\bin\Debug\Outluk.exe
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\bin\Debug\Outluk.pdb
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\obj\Debug\Outluk.csprojResolveAssemblyReference.cache
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\obj\Debug\Outluk.csproj.ResolveComReference.cache
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\obj\Debug\Outluk.exe
+c:\users\bengupj\documents\visual studio 2015\Projects\Outluk\Outluk\obj\Debug\Outluk.pdb
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\Outluk\bin\Debug\OutlookMailService.exe
+C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\Outluk\bin\Debug\OutlookMailService.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\Outluk\bin\Debug\Outluk.exe.config
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\Outluk\obj\Debug\Outluk.csproj.ResolveComReference.cache
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\Outluk\obj\Debug\Outluk.exe
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\Outluk\obj\Debug\Outluk.pdb

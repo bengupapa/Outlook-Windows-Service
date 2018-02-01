@@ -1,0 +1,15 @@
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\bin\Debug\OutlookMailService.exe.config
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\obj\Debug\OutlookMailService.ProjectInstaller.resources
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\obj\Debug\OutlookMailService.csproj.GenerateResource.Cache
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\bin\Debug\OutlookMailService.exe
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\bin\Debug\OutlookMailService.pdb
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\obj\Debug\OutlookMailService.exe
+c:\Users\bengupj\documents\visual studio 2015\Projects\Outluk\OutlookMailService\obj\Debug\OutlookMailService.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Debug\OutlookMailService.exe.config
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\obj\Debug\OutlookMailService.exe
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\obj\Debug\OutlookMailService.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Debug\OutlookMailService.exe
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Debug\OutlookMailService.pdb
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\obj\Debug\OutlookMailService.ProjectInstaller.resources
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\obj\Debug\OutlookMailService.csproj.GenerateResource.Cache
+C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\obj\Debug\OutlookMailService.csprojResolveAssemblyReference.cache

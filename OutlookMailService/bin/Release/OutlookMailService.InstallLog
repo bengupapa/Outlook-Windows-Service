@@ -1,0 +1,138 @@
+﻿Installing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Installing service OutlookMailService...
+Creating EventLog source OutlookMailService in log Application...
+Rolling back assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Restoring event log to previous state for source OutlookMailService.
+Installing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Installing service OutlookMailService...
+Service OutlookMailService has been successfully installed.
+Creating EventLog source OutlookMailService in log Application...
+Committing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Uninstalling assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Removing EventLog source OutlookMailService.
+Service OutlookMailService is being removed from the system...
+Service OutlookMailService was successfully removed from the system.
+Installing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Installing service OutlookMailService...
+Service OutlookMailService has been successfully installed.
+Creating EventLog source OutlookMailService in log Application...
+Committing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Uninstalling assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Removing EventLog source OutlookMailService.
+Service OutlookMailService is being removed from the system...
+Service OutlookMailService was successfully removed from the system.
+Installing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Installing service OutlookMailService...
+Service OutlookMailService has been successfully installed.
+Creating EventLog source OutlookMailService in log Application...
+Committing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Uninstalling assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Removing EventLog source OutlookMailService.
+Service OutlookMailService is being removed from the system...
+Service OutlookMailService was successfully removed from the system.
+Installing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Rolling back assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Installing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Installing service OutlookMailService...
+Service OutlookMailService has been successfully installed.
+Creating EventLog source OutlookMailService in log Application...
+Committing assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Uninstalling assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Removing EventLog source OutlookMailService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Removing EventLog source OutlookMailService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Documents\Visual Studio 2015\Projects\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Removing EventLog source OutlookMailService.
+Service OutlookMailService is being removed from the system...
+Service OutlookMailService was successfully removed from the system.
+Installing assembly 'C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+Rolling back assembly 'C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Release\OutlookMailService.InstallLog
+   assemblypath = C:\Users\bengupj\Desktop\Pj Stuff\Pj Tools\Outluk\OutlookMailService\bin\Release\OutlookMailService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
